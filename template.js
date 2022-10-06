@@ -1,3 +1,9 @@
+/**
+ * @name
+ * @date
+ * @link
+ */
+
 const fs = require('fs');
 
 const readFile = (dir) => {
