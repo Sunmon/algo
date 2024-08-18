@@ -2,11 +2,11 @@
 
 알고리즘을 풀자.
 
-기간:
-- 2022.10.05. ~ 2022.12.31.
+백준, 프로그래머스
+: 현 레포지토리에 작성
 
-목표: 
-- 2023.01.01 백준 골드
+Leetcode
+https://github.com/Sunmon/leetcode
 
-도움이 되는 링크:
- - [백준:자주 틀리는 요인](https://www.acmicpc.net/blog/view/70)
+JS 알고리즘 스터디 (2021)
+https://github.com/Sunmon/js-algorithm-basecamp
