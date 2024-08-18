@@ -3,7 +3,7 @@
 알고리즘을 풀자.
 
 백준, 프로그래머스
-: 현 레포지토리에 작성
+https://github.com/Sunmon/algo
 
 Leetcode
 https://github.com/Sunmon/leetcode
